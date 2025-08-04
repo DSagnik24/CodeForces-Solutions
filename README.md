@@ -81,9 +81,9 @@ Please ensure all contributions maintain code quality and include proper comment
 
 ## 📞 Connect With Me
 
-- **Codeforces:** [DSagnik24](https://codeforces.com/profile/DSagnik24)
+- **Codeforces:** [SAGNIK_Dutta24](https://codeforces.com/profile/SAGNIK_Dutta24)
 - **GitHub:** [DSagnik24](https://github.com/DSagnik24)
-- **Email:** [your.email@example.com]
+- **Email:** [sagnikduttaofficial18@gmail.com]
 
 ## ⭐ Support
 
@@ -98,4 +98,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Coding! 🎉**
 
 > *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
+
 
