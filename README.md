@@ -5,7 +5,7 @@ Welcome to my collection of Codeforces problem solutions! This repository contai
 ## 📊 Stats
 
 ![Profile](https://img.shields.io/badge/Codeforces-DSagnik24-blue?style=flat-square&logo=codeforces)
-![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Language](![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=java&logoColor=white))
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100+-green?style=flat-square)
 
 ## 🎯 About
@@ -115,4 +115,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Coding! 🎉**
 
 > *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie﻿# CodeForces-Solutions
+
 
