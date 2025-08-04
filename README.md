@@ -4,8 +4,8 @@ Welcome to my collection of Codeforces problem solutions! This repository contai
 
 ## 📊 Stats
 
-![Profile](https://img.shields.io/badge/Codeforces-DSagnik24-blue?style=flat-square&logo=codeforces)
-![Language](![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=java&logoColor=white))
+![Profile](https://img.shields.io/badge/Codeforces-SAGNIK__Dutta24-blue?style=flat-square&logo=codeforces)
+![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100+-green?style=flat-square)
 
 ## 🎯 About
@@ -15,7 +15,7 @@ This repository serves as:
 - A reference for algorithmic problem-solving approaches
 - A record of my progress in competitive programming
 
-**Codeforces Profile:** [DSagnik24](https://codeforces.com/profile/DSagnik24)
+**Codeforces Profile:** [SAGNIK_Dutta24](https://codeforces.com/profile/SAGNIK_Dutta24)
 
 ## 📁 Repository Structure
 
@@ -55,26 +55,9 @@ CodeForces-Solutions/
 - **String Algorithms:** Pattern matching, string processing
 - **Mathematics:** Combinatorics, probability, geometry
 
+## 🔧 Languages Used
 
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/DSagnik24/CodeForces-Solutions.git
-   cd CodeForces-Solutions
-   ```
-
-2. **Compile and run a solution:**
-   ```bash
-   g++ -o solution ProblemCode_ProblemName.cpp
-   ./solution
-   ```
-
-3. **For debugging:**
-   ```bash
-   g++ -DDEBUG -g -o solution ProblemCode_ProblemName.cpp
-   ./solution
-   ```
+- **Primary:** Java (OpenJDK 21+)
 
 
 
@@ -98,9 +81,9 @@ Please ensure all contributions maintain code quality and include proper comment
 
 ## 📞 Connect With Me
 
-- **Codeforces:** [SAGNIK_Dutta24]([https://codeforces.com/profile/DSagnik24](https://codeforces.com/profile/SAGNIK_Dutta24))
+- **Codeforces:** [DSagnik24](https://codeforces.com/profile/DSagnik24)
 - **GitHub:** [DSagnik24](https://github.com/DSagnik24)
-- **Email:** [sagnikduttaofficial18@gmail.com]
+- **Email:** [your.email@example.com]
 
 ## ⭐ Support
 
@@ -114,6 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Happy Coding! 🎉**
 
-> *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie﻿# CodeForces-Solutions
-
-
+> *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
