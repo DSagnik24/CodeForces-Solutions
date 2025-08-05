@@ -1,6 +1,8 @@
+package A_Problems;
+
 import java.util.Scanner;
 
-public class Waytoolongwords {
+public class Waytoolongwords_71A {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();

@@ -1,6 +1,8 @@
+package A_Problems;
+
 import java.util.Scanner;
 
-public class Team {
+public class Team_231A {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
